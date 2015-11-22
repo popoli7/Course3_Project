@@ -69,11 +69,13 @@
 [67] fBodyBodyGyroJerkMag_mean 	   
 [68] fBodyBodyGyroJerkMag_std 
 
+
 * Levels for [2] Activity:
- [1] (walk)      - WALKING    	   
- [2] (walk_up)   - WALKING_UPSTAIRS      
- [3] (walk_down) - WALKING_DOWNSTAIRS         	   
- [4] (sit)       - SITTING  
- [5] (stand)     - STANDING     	   
- [6] (lay)       - LAYING  
+
+ [1] walk      - walking    	   
+ [2] walk_up   - walking_upstairs      
+ [3] walk_down - walking_downstairs         	   
+ [4] sit       - sitting  
+ [5] stand     - standing     	   
+ [6] lay       - laying  
 
