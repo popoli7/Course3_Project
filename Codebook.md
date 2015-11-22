@@ -2,12 +2,6 @@
 
  [1] subject                   	   
  [2] activity                 
-	 1 (walk)	- WALKING
-	 2 (walk_up)	- WALKING_UPSTAIRS
-	 3 (walk_down)	- WALKING_DOWNSTAIRS
-	 4 (sit)	- SITTING
-	 5 (stand)	- STANDING
-	 6 (lay)	- LAYING
  [3] tBodyAcc_mean_X           	   
  [4] tBodyAcc_mean_Y          
  [5] tBodyAcc_mean_Z           	   
