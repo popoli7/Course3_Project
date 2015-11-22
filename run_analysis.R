@@ -38,7 +38,7 @@ sub_dat$activity <- factor(sub_dat$activity,
 
 
 
-tidy_data <- aggregate(sub_dat[, 3:68], list(activity = sub_dat$activity, subject = sub_dat$subject), mean)
+tidy_data <- aggregate(sub_dat[, 3:68], list(subject = sub_dat$subject, activity = sub_dat$activity), mean)
 #tidy_data
 
 
